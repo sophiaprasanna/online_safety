@@ -1,0 +1,72 @@
+
+.header {
+    text-align: center;
+    padding: 5;
+}
+
+.header h1 {
+    color: black;
+}
+.header h1 {
+    font-family: 'Arial Rounded MT Bold', sans-serif;
+  }
+.button-1 {
+  background-color: #86E44C;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-box;
+  font-size: 16px;
+} 
+.button-2 {
+  background-color: #86E44C;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-box;
+  font-size: 16px;
+}  
+.button-3 {
+  background-color: #86E44C;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-box;
+  font-size: 16px;
+}  
+.button-4 {
+  background-color: #86E44C;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-box;
+  font-size: 16px;
+}  
+.paragraph-1 {
+  padding: 10px;
+  margin: 5px 300px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.paragraph-2 {
+  padding: 10px;
+  margin: 5px 300px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.paragraph-3 {
+  padding: 10px;
+  margin: 5px 300px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.paragraph-4 {
+  padding: 10px;
+  margin: 5px 300px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
