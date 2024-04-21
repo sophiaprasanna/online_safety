@@ -9,6 +9,7 @@
 }
 .header h1 {
     font-family: 'Arial Rounded MT Bold', sans-serif;
+    font-size: 50px;
   }
 .button-1 {
   background-color: #86E44C;
@@ -16,9 +17,9 @@
   color: black;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
   display: inline-box;
   font-size: 16px;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
 } 
 .button-2 {
   background-color: #86E44C;
@@ -26,9 +27,9 @@
   color: black;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
   display: inline-box;
   font-size: 16px;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
 }  
 .button-3 {
   background-color: #86E44C;
@@ -36,9 +37,9 @@
   color: black;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
   display: inline-box;
   font-size: 16px;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
 }  
 .button-4 {
   background-color: #86E44C;
@@ -46,27 +47,67 @@
   color: black;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
   display: inline-box;
   font-size: 16px;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
 }  
 .paragraph-1 {
-  padding: 10px;
+  padding: 1px 10px;
+  text-indent:60px;
   margin: 5px 300px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif
+  line-height: 2;
+  text-align: left;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .paragraph-2 {
   padding: 10px;
+  text-indent: 60px;
   margin: 5px 300px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif
+  line-height: 2;
+  text-align: left;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .paragraph-3 {
   padding: 10px;
+  text-align: left;
   margin: 5px 300px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif
+  line-height: 2;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-indent: 60px;
 }
-.paragraph-4 {
-  padding: 10px;
+.header-1 {
+  padding:15px 3px;
+  padding-top: 25px;
   margin: 5px 300px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif
+  font-size:28px;
+  text-align:left;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
+  text-indent:50px;
+}
+.header-2 {
+  padding: 15px 3px;
+  padding-top: 25px;
+  margin: 5px 300px;
+  font-size: 28px;
+  text-align: left;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
+  text-indent:50px;
+}
+.header-3 {
+  padding:15px 3px;
+  padding-top: 25px;
+  margin: 5px 300px;
+  font-size:28px;
+  text-align:left;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
+  text-indent:50px;
+}
+.header-4 {
+  padding:15px 3px;
+  padding-top: 25px;
+  margin: 5px 300px;
+  font-size:28px;
+  text-align:left;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
+  text-indent:50px;
 }
